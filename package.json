@@ -1,0 +1,21 @@
+{
+  "name": "insights-pdf-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.63",
+    "@types/node": "^14.11.5",
+    "@types/puppeteer": "^3.0.2",
+    "aws-sdk": "^2.769.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
